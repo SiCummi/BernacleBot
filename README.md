@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/f967a167f783ceb10ce44.png">
 </p>
 
-<h4><p align="center"> 𝐂𝐔𝐌𝐈𝐁𝐈𝐒𝐈𝐍𝐘𝐈𝐍𝐘𝐈  </p></h4>
+<h4><p align="center"> BERNACLE-BOT </p></h4>
 
 <p align="center">BERNACLE-BOT is a modular bot running on python3 with anime theme and have a lot features.</p>
 
