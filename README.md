@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://telegra.ph/file/271dd0c96ca3ee17f91b1.jpg">
+  <img src="https://telegra.ph/file/f967a167f783ceb10ce44.png">
 </p>
 
 <h4><p align="center"> 𝐂𝐔𝐌𝐈𝐁𝐈𝐒𝐈𝐍𝐘𝐈𝐍𝐘𝐈  </p></h4>
 
-<p align="center">CumaBisaNyanyi is a modular bot running on python3 with anime theme and have a lot features.</p>
+<p align="center">BERNACLE-BOT is a modular bot running on python3 with anime theme and have a lot features.</p>
 
 <p align="center">
-<a href="https://t.me/CumaBisaNyanyiBot"> <img src="https://img.shields.io/badge/Emiko-Robot-blue?&logo=telegram" alt="Emiko on Telegram" /> </a><br>
+<a href="https://t.me/BERNACLE_BOT"> <img src="https://img.shields.io/badge/-BERNACLE-yellowgreen" alt="Emiko on Telegram" /> </a><br>
 <a href="https://python-telegram-bot.org"> <img src="https://img.shields.io/badge/PTB-13.10-white?&style=flat-round&logo=github" alt="Python Telegram Bot" /> </a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a><br>
 <a href="https://docs.telethon.dev"> <img src="https://img.shields.io/badge/Telethon-1.24.0-red?&style=flat-round&logo=github" alt="Telethon" /> </a>
@@ -51,3 +51,5 @@ This Bot is Created by KennedyProject, If your kanging this without fork at leas
 • [Arya](https://github.com/Aryazakaria01)
 
 • [Kyy](https://github.com/zxcskyy)
+
+• [Cumi](https://github.com/SiCummi) 
